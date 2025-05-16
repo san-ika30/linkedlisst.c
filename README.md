@@ -1,1 +1,1 @@
-# linkedlisst.c
+# linkedlist
